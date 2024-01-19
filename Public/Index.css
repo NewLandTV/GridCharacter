@@ -1,0 +1,17 @@
+*,
+*:before,
+*:after {
+    padding: 0px 0px;
+    margin: 0px 0px;
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#scene {
+    display: block;
+}

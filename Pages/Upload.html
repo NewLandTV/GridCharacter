@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Character - Upload</title>
+</head>
+<body>
+    <div id="image-show"></div>
+    <form action="/result" method="post" enctype="multipart/form-data">
+        <input name="image" type="file" accept="image/*" onchange="LoadImage(this);">
+        Grid X : <input name="gridX" type="number" value="5">
+        Grid Y : <input name="gridY" type="number" value="5">
+        Color : <input name="color" type="color" value="#ff0000">
+        <input type="submit" value="Upload">
+    </form>
+    <script src="Upload.js"></script>
+</body>
+</html>

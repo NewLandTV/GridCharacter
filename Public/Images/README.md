@@ -1,0 +1,1 @@
+This is storage of uploaded image files.

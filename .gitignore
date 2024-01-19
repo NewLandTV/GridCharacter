@@ -1,3 +1,11 @@
+# Public Image files
+Public/Images/*.jpg
+Public/Images/*.jpeg
+Public/Images/*.png
+
+# Test
+Tests
+
 # Logs
 logs
 *.log
