@@ -2,6 +2,8 @@
 
 Add a grid to any image you want!
 
+[![Development Note p.548](https://img.youtube.com/vi/WvqJlaQ5UFE/0.jpg)](https://www.youtube.com/watch?v=WvqJlaQ5UFE)
+
 # About
 
 The Grid Character Project was created to draw grids on images.
