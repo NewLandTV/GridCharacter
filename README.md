@@ -25,7 +25,7 @@ You can then go to ```http://localhost:3000/``` to go to the home page of Grid C
 
 ## Links
 
-* [JkhTV YouTube](https://www.youtube.com/@NewLand2019-JkhTV)
+* [JkhTV YouTube](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
 * [NewLand Cafe](https://cafe.naver.com/2019newland)
 * [NewLand Discord](https://discord.gg/2J646MaZGA)
 * [JkhTV Tistory](https://jkhtv.tistory.com)
